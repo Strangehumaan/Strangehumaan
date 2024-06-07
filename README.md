@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saad Nathani</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strangehumaan" alt="strangehumaan" /></a> </p>
+
 - 🔭 I’m currently working on **Data analysis**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
@@ -22,4 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strangehumaan&show_icons=true&locale=en&layout=compact" alt="strangehumaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strangehumaan&show_icons=true&theme=tokyonight&locale=en" alt="strangehumaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strangehumaan&show_icons=true&theme=radical&locale=en" alt="strangehumaan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strangehumaan&" alt="strangehumaan" /></p>
