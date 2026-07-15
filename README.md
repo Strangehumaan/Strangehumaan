@@ -1,25 +1,58 @@
-<h1 align="center">Hi 👋, I'm Mohammad Saad Nathani</h1>
-<h3 align="center">A little bit passionate developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Data analysis**
+```
+$ whoami
+mohammad-saad-nathani.exe
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+$ cat role.txt
+AI/ML engineer-in-training · builds things that parse, retrieve, and control stuff
+```
 
-- 📫 How to reach me **saadnathani2005@gmail.com**
+</div>
 
-- ⚡ Fun fact **I think i am funny**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saadnathani3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadnathani3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saad-nathani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-nathani-96354230a/" height="30" width="40" /></a>
-<a href="https://instagram.com/nathani.saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathani.saad" height="30" width="40" /></a>
-<a href="https://discord.gg/strangehumaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="strangehumaan" height="30" width="40" /></a>
-</p>
+```bash
+$ cat about.md
+```
+- based in India, 3rd-year AI/ML @ NMIMS MPSTME
+- spent this summer teaching a RAG pipeline to read industrial PLC manuals
+  so engineers don't have to
+- 1st place, AISEHack — built a physics-informed model to forecast
+  PM2.5 pollution over India
+- currently: Chair, ACM MPSTME Shirpur
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+```bash
+$ tail -n 3 build.log
+```
+```
+[CN Automation]   RAG over Siemens PCS 7 manuals — Docling + ChromaDB + Ollama
+[CN Automation]   Node-RED dashboards streaming live OPC-UA plant data
+[AISEHack]        WindWarp — ConvLSTM encoder-decoder, autoregressive AQI forecast
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=strangehumaan&show_icons=true&locale=en&layout=compact" alt="strangehumaan" /></p>
+```bash
+$ ls ./interests
+```
+```
+self-supervised-learning/   reinforcement-learning/   industrial-automation/
+jepa-family/                physics-informed-ml/      applied-ai-in-the-real-world/
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strangehumaan&" alt="strangehumaan" /></p>
+<br>
+
+```bash
+$ cat stack.txt
+```
+`Python` `PyTorch` `LangGraph` `TIA Portal` `ChromaDB` `PostgreSQL` `C++` `Linux`
+
+<br>
+
+```bash
+$ cat contact.txt
+```
+[saadnathani2005@gmail.com](mailto:saadnathani2005@gmail.com) · [linkedin.com/in/saad-nathani](https://linkedin.com/in/saad-nathani) · [@saadnathani3](https://twitter.com/saadnathani3)
+
+<div align="center">
+<sub>currently open to internships / new grad roles</sub>
+</div>
