@@ -21,47 +21,9 @@
 
 </div>
 
-```text
-STRANGEHUMAAN BIOS v20.26          (C) Mohammad Saad Nathani
-
-  Main Processor ......... Human, AI/ML student
-  Memory Test ............ 640K OK  (should be enough for anybody)
-  Detecting devices ...
-    /dev/rag ............. [  OK  ]
-    /dev/agents .......... [  OK  ]
-    /dev/plc ............. [  OK  ]
-    /dev/notebook ........ [ SKIP ]  models don't live here anymore
-
-  Booting from drive C: ...
-```
-
-```text
-C:\> TYPE ABOUT.TXT
-
-AI/ML student who likes making models leave the notebook: retrieval
-pipelines, agentic systems, and code that talks to real hardware.
-```
-
-```text
-C:\> DIR \INTERESTS /W
-
- [SELF-SUPERVISED.LRN]   [REINFORCEMENT.LRN]   [PHYSICS-INFORMED.ML]
- [RETRIEVAL-AUG.GEN]     [INDUSTRIAL.AUTO]
-
-        5 Dir(s)    ∞ bytes free
-```
-
-### `C:\> DIR \PROJECTS`
-
-| FILE | TYPE | WHAT IT DOES |
-| :--- | :---: | :--- |
-| 💾 [**TIA-Portal-Openness-MCP**](https://github.com/Strangehumaan/TIA-Portal-Openness-MCP) | `C#` | MCP server that lets Claude, Cursor & co. inspect, export and import blocks and tag tables in Siemens TIA Portal |
-| 💾 [**docling_RAG**](https://github.com/Strangehumaan/docling_RAG) | `PY` | Docling + ChromaDB + Ollama pipeline for querying dense technical PDFs |
-| 💾 [**multimodal-rag**](https://github.com/Strangehumaan/multimodal-rag) | `PY` | Retrieval over text *and* images |
-| 💾 [**RL_Trading_Agent**](https://github.com/Strangehumaan/RL_Trading_Agent) | `IPYNB` | Reinforcement-learning agent for trading |
-| 💾 **WindWarp** | `PY` | Physics-informed ConvLSTM for PM2.5 forecasting over India |
-| 💾 **plant-dashboards** | `JS` | Node-RED + Vue dashboards streaming live OPC-UA sensor data |
-| 📦 [**OTTools**](https://pypi.org/project/OTTools/) · **HED-TF** | `PYPI` | Small open-source packages, published and public |
+<div align="center">
+<img src="assets/boot.svg" width="760" alt="STRANGEHUMAAN BIOS boot screen. Detects RAG pipelines, agentic systems and PLC / OPC-UA; skips the Jupyter notebook because models don't live there anymore. ABOUT.TXT: I make models leave the notebook: retrieval pipelines, agentic systems, and code that talks to real hardware. Interests: self-supervised learning, reinforcement learning, physics-informed ML, RAG, industrial automation." />
+</div>
 
 ### `C:\> TYPE STACK.CFG`
 

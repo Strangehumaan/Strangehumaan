@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="720" viewBox="0 0 760 720" role="img" aria-label="Retro BIOS boot screen: about and interests">
+<style>
+text { font-family: 'Courier New', Courier, monospace; font-size: 18px; white-space: pre; }
+.ln { opacity: 0; animation: on 0.01s linear forwards; }
+.ty { clip-path: inset(0 100% 0 0); animation: on 0.01s linear forwards, type 0.9s steps(18) forwards; }
+@keyframes on { to { opacity: 1; } }
+@keyframes type { to { clip-path: inset(0 0 0 0); } }
+.cur { opacity: 0; animation: blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 1; } }
+.scr { animation: flicker 6s infinite; }
+@keyframes flicker { 0%,100% { opacity: 1; } 48% { opacity: 1; } 50% { opacity: .93; } 52% { opacity: 1; } }
+</style>
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity=".35"/></pattern>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".75"/></radialGradient>
+<radialGradient id="glass" cx="50%" cy="40%" r="70%"><stop offset="0%" stop-color="#0b2a10"/><stop offset="100%" stop-color="#020a03"/></radialGradient>
+<filter id="glow" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="760" height="720" rx="18" fill="#141414"/>
+<rect x="10" y="10" width="740" height="700" rx="14" fill="url(#glass)"/>
+<g class="scr" filter="url(#glow)">
+<text class="ln" x="44" y="70" style="animation-delay:0.40s"><tspan fill="#b6ffb6">STRANGEHUMAAN MODULAR BIOS v20.26</tspan></text>
+<text class="ln" x="44" y="96" style="animation-delay:0.58s"><tspan fill="#1f9e3a">Copyright (C) 2005-2026, Mohammad Saad Nathani</tspan></text>
+<text class="ln" x="44" y="148" style="animation-delay:0.88s"><tspan fill="#1f9e3a">Main Processor : </tspan><tspan fill="#33ff33">HUMAN-1, AI/ML STUDENT</tspan></text>
+<text class="ln" x="44" y="174" style="animation-delay:1.06s"><tspan fill="#1f9e3a">Memory Testing : </tspan><tspan fill="#33ff33">655360K OK</tspan></text>
+<text class="ln" x="44" y="226" style="animation-delay:1.68s"><tspan fill="#1f9e3a">Detecting Primary Master   ... </tspan><tspan fill="#33ff33">RAG PIPELINES</tspan><tspan fill="#33ff33">      [ OK ]</tspan></text>
+<text class="ln" x="44" y="252" style="animation-delay:2.08s"><tspan fill="#1f9e3a">Detecting Primary Slave    ... </tspan><tspan fill="#33ff33">AGENTIC SYSTEMS</tspan><tspan fill="#33ff33">    [ OK ]</tspan></text>
+<text class="ln" x="44" y="278" style="animation-delay:2.48s"><tspan fill="#1f9e3a">Detecting Secondary Master ... </tspan><tspan fill="#33ff33">PLC / OPC-UA</tspan><tspan fill="#33ff33">       [ OK ]</tspan></text>
+<text class="ln" x="44" y="304" style="animation-delay:2.88s"><tspan fill="#1f9e3a">Detecting Secondary Slave  ... </tspan><tspan fill="#33ff33">JUPYTER NOTEBOOK</tspan><tspan fill="#ffb000">   [SKIP]</tspan></text>
+<text class="ln" x="44" y="330" style="animation-delay:3.13s"><tspan fill="#ffb000">  models don't live there anymore</tspan></text>
+<text class="ln" x="44" y="382" style="animation-delay:3.85s"><tspan fill="#b6ffb6">Starting SAAD-DOS...</tspan></text>
+<text class="ty" x="44" y="434" style="animation-delay:4.87s"><tspan fill="#33ff33">C:\&gt; </tspan><tspan fill="#b6ffb6">TYPE ABOUT.TXT</tspan></text>
+<text class="ln" x="44" y="460" style="animation-delay:5.97s"><tspan fill="#33ff33">I make models leave the notebook: retrieval pipelines,</tspan></text>
+<text class="ln" x="44" y="486" style="animation-delay:6.15s"><tspan fill="#33ff33">agentic systems, and code that talks to real hardware.</tspan></text>
+<text class="ty" x="44" y="538" style="animation-delay:6.87s"><tspan fill="#33ff33">C:\&gt; </tspan><tspan fill="#b6ffb6">DIR \INTERESTS /W</tspan></text>
+<text class="ln" x="44" y="564" style="animation-delay:8.07s"><tspan fill="#33ff33">[SELF-SUPERVISED]   [REINFORCEMENT]   [PHYSICS-INFORMED]</tspan></text>
+<text class="ln" x="44" y="590" style="animation-delay:8.25s"><tspan fill="#33ff33">[RAG]               [INDUSTRIAL-AUTOMATION]</tspan></text>
+<text class="ln" x="44" y="616" style="animation-delay:8.43s"><tspan fill="#1f9e3a">        5 Dir(s)    </tspan><tspan fill="#1f9e3a">∞ bytes free</tspan></text>
+<text class="ln" x="44" y="668" style="animation-delay:9.15s"><tspan fill="#33ff33">C:\&gt; </tspan></text>
+<rect class="cur" x="98.0" y="653" width="10.8" height="19" fill="#33ff33" style="animation-delay:9.15s"/>
+</g>
+<rect x="10" y="10" width="740" height="700" rx="14" fill="url(#scan)"/>
+<rect x="10" y="10" width="740" height="700" rx="14" fill="url(#vig)"/>
+</svg>
