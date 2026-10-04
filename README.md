@@ -1,68 +1,117 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mohammad+Saad+Nathani;AI%2FML+%2B+Systems+that+actually+run;RAG+%7C+Agents+%7C+Applied+ML" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=800&color=33FF33&center=true&vCenter=true&width=640&lines=%3E+POWER+ON+SELF+TEST...+OK;%3E+LOADING+SAAD.EXE;%3E+AI%2FML+%2B+SYSTEMS+THAT+ACTUALLY+RUN;%3E+RAG+%7C+AGENTS+%7C+APPLIED+ML" alt="boot sequence" />
+
+```text
+███████╗████████╗██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗
+██╔════╝╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝
+███████╗   ██║   ██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗
+╚════██║   ██║   ██╔══██╗██╔══██║██║╚██╗██║██║   ██║██╔══╝
+███████║   ██║   ██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████╗
+╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+     ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗  █████╗ ███╗   ██╗
+     ██║  ██║██║   ██║████╗ ████║██╔══██╗██╔══██╗████╗  ██║
+     ███████║██║   ██║██╔████╔██║███████║███████║██╔██╗ ██║
+     ██╔══██║██║   ██║██║╚██╔╝██║██╔══██║██╔══██║██║╚██╗██║
+     ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚████║
+     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=Strangehumaan&label=VISITORS&color=33ff33&style=flat-square" alt="visitor counter" />
 
 </div>
 
-<br>
+```text
+STRANGEHUMAAN BIOS v20.26          (C) Mohammad Saad Nathani
 
-```bash
-$ cat about.md
+  Main Processor ......... Human, AI/ML student
+  Memory Test ............ 640K OK  (should be enough for anybody)
+  Detecting devices ...
+    /dev/rag ............. [  OK  ]
+    /dev/agents .......... [  OK  ]
+    /dev/plc ............. [  OK  ]
+    /dev/notebook ........ [ SKIP ]  models don't live here anymore
+
+  Booting from drive C: ...
 ```
-AI/ML student who likes making models leave the notebook — retrieval pipelines, agentic systems, and code that talks to real hardware.
 
-```bash
-$ ls ./interests
+```text
+C:\> TYPE ABOUT.TXT
+
+AI/ML student who likes making models leave the notebook: retrieval
+pipelines, agentic systems, and code that talks to real hardware.
 ```
-`self-supervised-learning` `reinforcement-learning` `physics-informed-ml` `retrieval-augmented-generation` `industrial-automation`
 
-<br>
+```text
+C:\> DIR \INTERESTS /W
 
-### `$ cat stack.txt`
+ [SELF-SUPERVISED.LRN]   [REINFORCEMENT.LRN]   [PHYSICS-INFORMED.ML]
+ [RETRIEVAL-AUG.GEN]     [INDUSTRIAL.AUTO]
 
-<div>
+        5 Dir(s)    ∞ bytes free
+```
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+### `C:\> DIR \PROJECTS`
 
-**ML / AI**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+| FILE | TYPE | WHAT IT DOES |
+| :--- | :---: | :--- |
+| 💾 [**TIA-Portal-Openness-MCP**](https://github.com/Strangehumaan/TIA-Portal-Openness-MCP) | `C#` | MCP server that lets Claude, Cursor & co. inspect, export and import blocks and tag tables in Siemens TIA Portal |
+| 💾 [**docling_RAG**](https://github.com/Strangehumaan/docling_RAG) | `PY` | Docling + ChromaDB + Ollama pipeline for querying dense technical PDFs |
+| 💾 [**multimodal-rag**](https://github.com/Strangehumaan/multimodal-rag) | `PY` | Retrieval over text *and* images |
+| 💾 [**RL_Trading_Agent**](https://github.com/Strangehumaan/RL_Trading_Agent) | `IPYNB` | Reinforcement-learning agent for trading |
+| 💾 **WindWarp** | `PY` | Physics-informed ConvLSTM for PM2.5 forecasting over India |
+| 💾 **plant-dashboards** | `JS` | Node-RED + Vue dashboards streaming live OPC-UA sensor data |
+| 📦 [**OTTools**](https://pypi.org/project/OTTools/) · **HED-TF** | `PYPI` | Small open-source packages, published and public |
 
-**Tools / Infra**
-<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
-<img src="https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge"/>
+### `C:\> TYPE STACK.CFG`
 
+<p>
+<code>LANG</code>&nbsp;
+<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=33ff33" alt="Python" />
+<img src="https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=33ff33" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=33ff33" alt="C#" />
+<img src="https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=33ff33" alt="SQL" />
+</p>
+
+<p>
+<code>ML/AI</code>
+<img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=33ff33" alt="PyTorch" />
+<img src="https://img.shields.io/badge/LangGraph-0a0a0a?style=for-the-badge&logo=langchain&logoColor=33ff33" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Ollama-0a0a0a?style=for-the-badge&logo=ollama&logoColor=33ff33" alt="Ollama" />
+<img src="https://img.shields.io/badge/ChromaDB-0a0a0a?style=for-the-badge" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/MCP-0a0a0a?style=for-the-badge&logo=modelcontextprotocol&logoColor=33ff33" alt="MCP" />
+</p>
+
+<p>
+<code>INFRA</code>
+<img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=33ff33" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=33ff33" alt="Linux" />
+<img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=33ff33" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Node--RED-0a0a0a?style=for-the-badge&logo=nodered&logoColor=33ff33" alt="Node-RED" />
+<img src="https://img.shields.io/badge/TIA_Portal-0a0a0a?style=for-the-badge&logo=siemens&logoColor=33ff33" alt="TIA Portal" />
+</p>
+
+### `C:\> SNAKE.EXE`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Strangehumaan/Strangehumaan/output/snake-retro.svg" alt="snake eating my contribution graph" />
 </div>
 
-<br>
+### `C:\> DIAL.EXE`
 
-```bash
-$ ls ./projects
+```text
+ATDT ... CONNECT 56000
 ```
-- **RAG-over-manuals** — Docling + ChromaDB + Ollama pipeline for querying dense technical PDFs
-- **WindWarp** — physics-informed ConvLSTM for PM2.5 forecasting over India
-- **plant-dashboards** — Node-RED + Vue dashboards streaming live OPC-UA sensor data
-- **PyPI: HED-TF, OTTools** — small open-source packages, published and public
 
-<br>
+<p>
+<a href="mailto:saadnathani2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=33ff33" alt="Email" /></a>
+<a href="https://linkedin.com/in/saad-nathani"><img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=33ff33" alt="LinkedIn" /></a>
+<a href="https://twitter.com/saadnathani3"><img src="https://img.shields.io/badge/@SAADNATHANI3-0a0a0a?style=for-the-badge&logo=x&logoColor=33ff33" alt="X / Twitter" /></a>
+<a href="https://strangehumaan.github.io"><img src="https://img.shields.io/badge/HOMEPAGE-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=33ff33" alt="Homepage" /></a>
+</p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />  <a href="mailto:saadnathani2005@gmail.com">saadnathani2005@gmail.com</a>
-<br>
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />  <a href="https://linkedin.com/in/saad-nathani">saad-nathani</a>
-<br>
-<img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />  <a href="https://twitter.com/saadnathani3">@saadnathani3</a>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=1200&color=FFB000&center=true&vCenter=true&repeat=true&width=400&lines=PRESS+ANY+KEY+TO+CONTINUE_;PRESS+ANY+KEY+TO+CONTINUE" alt="press any key" />
 
 </div>
