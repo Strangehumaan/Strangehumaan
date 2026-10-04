@@ -17,12 +17,6 @@
      ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Strangehumaan&label=VISITORS&color=33ff33&style=flat-square" alt="visitor counter" />
-
-</div>
-
-<div align="center">
-<img src="assets/boot.svg" width="760" alt="STRANGEHUMAAN BIOS boot screen. Detects RAG pipelines, agentic systems and PLC / OPC-UA; skips the Jupyter notebook because models don't live there anymore. ABOUT.TXT: I make models leave the notebook: retrieval pipelines, agentic systems, and code that talks to real hardware. Interests: self-supervised learning, reinforcement learning, physics-informed ML, RAG, industrial automation." />
 </div>
 
 ### `C:\> TYPE STACK.CFG`
