@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=800&color=33FF33&center=true&vCenter=true&width=640&lines=%3E+POWER+ON+SELF+TEST...+OK;%3E+LOADING+SAAD.EXE;%3E+AI%2FML+%2B+SYSTEMS+THAT+ACTUALLY+RUN;%3E+RAG+%7C+AGENTS+%7C+APPLIED+ML" alt="boot sequence" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=800&color=33FF33&center=true&vCenter=true&width=640&lines=%3E+POWER+ON+SELF+TEST...+OK;%3E+LOADING+SAAD.EXE;%3E+AI%2FML+%2B+SYSTEMS+THAT+ACTUALLY+RUN;%3E+RAG+%7C+AGENTS+%7C+APPLIED+ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=800&color=1A7F37&center=true&vCenter=true&width=640&lines=%3E+POWER+ON+SELF+TEST...+OK;%3E+LOADING+SAAD.EXE;%3E+AI%2FML+%2B+SYSTEMS+THAT+ACTUALLY+RUN;%3E+RAG+%7C+AGENTS+%7C+APPLIED+ML" alt="boot sequence" />
+</picture>
 
 ```text
 ███████╗████████╗██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗
@@ -48,14 +51,17 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Strangehumaan/Strangehumaan/output/snake-retro.svg" alt="snake eating my contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Strangehumaan/Strangehumaan/output/snake-retro.svg" />
+  <img src="https://raw.githubusercontent.com/Strangehumaan/Strangehumaan/output/snake-retro-light.svg" alt="snake eating my contribution graph" />
+</picture>
 </div>
 
 
 <p>
 <a href="mailto:saadnathani2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=33ff33" alt="Email" /></a>
 <a href="https://linkedin.com/in/saad-nathani"><img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=33ff33" alt="LinkedIn" /></a>
-<a href="https://x.com/strangehumaan_"><img src="https://img.shields.io/badge/@STRANGEHUMAAN_-0a0a0a?style=for-the-badge&logo=x&logoColor=33ff33" alt="X / Twitter" /></a>
+<a href="https://x.com/strangehumaan_"><img src="https://img.shields.io/badge/@STRANGEHUMAAN__-0a0a0a?style=for-the-badge&logo=x&logoColor=33ff33" alt="X / Twitter" /></a>
 <a href="https://strangehumaan.github.io"><img src="https://img.shields.io/badge/HOMEPAGE-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=33ff33" alt="Homepage" /></a>
 </p>
 
