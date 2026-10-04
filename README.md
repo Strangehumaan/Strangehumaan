@@ -47,8 +47,6 @@
 <img src="https://img.shields.io/badge/TIA_Portal-0a0a0a?style=for-the-badge&logo=siemens&logoColor=33ff33" alt="TIA Portal" />
 </p>
 
-### `C:\> SNAKE.EXE`
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Strangehumaan/Strangehumaan/output/snake-retro.svg" alt="snake eating my contribution graph" />
 </div>
