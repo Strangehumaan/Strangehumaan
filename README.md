@@ -53,11 +53,6 @@
 <img src="https://raw.githubusercontent.com/Strangehumaan/Strangehumaan/output/snake-retro.svg" alt="snake eating my contribution graph" />
 </div>
 
-### `C:\> DIAL.EXE`
-
-```text
-ATDT ... CONNECT 56000
-```
 
 <p>
 <a href="mailto:saadnathani2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=33ff33" alt="Email" /></a>
