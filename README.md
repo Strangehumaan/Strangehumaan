@@ -57,12 +57,8 @@
 <p>
 <a href="mailto:saadnathani2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=33ff33" alt="Email" /></a>
 <a href="https://linkedin.com/in/saad-nathani"><img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=33ff33" alt="LinkedIn" /></a>
-<a href="https://twitter.com/saadnathani3"><img src="https://img.shields.io/badge/@SAADNATHANI3-0a0a0a?style=for-the-badge&logo=x&logoColor=33ff33" alt="X / Twitter" /></a>
+<a href="https://x.com/strangehumaan_"><img src="https://img.shields.io/badge/@STRANGEHUMAAN_-0a0a0a?style=for-the-badge&logo=x&logoColor=33ff33" alt="X / Twitter" /></a>
 <a href="https://strangehumaan.github.io"><img src="https://img.shields.io/badge/HOMEPAGE-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=33ff33" alt="Homepage" /></a>
 </p>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=1200&color=FFB000&center=true&vCenter=true&repeat=true&width=400&lines=PRESS+ANY+KEY+TO+CONTINUE_;PRESS+ANY+KEY+TO+CONTINUE" alt="press any key" />
-
-</div>
